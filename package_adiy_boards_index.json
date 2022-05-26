@@ -1,0 +1,29 @@
+{
+  "packages": [
+    {
+      "name": "ADIY avr compatible boards",
+      "maintainer": "adiy.in",
+      "websiteURL": "https://github.com/Adiy-Github/ADIY-Arduino-Boards",
+      "email": "support@adiy.in",
+      "help": {
+        "online": "adiy.in"
+      },
+      "platforms": [
+        {
+          "name": "ADIY Arduino Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "lgt8fx",
+          "url": "https://github.com/nulllaborg/arduino_nulllab/releases/download/v1.0.0/nulllab_arduino-1.0.0.zip",
+          "archiveFileName": "ADIY_Arduino_Boards.zip",
+          "checksum": "SHA-256:6966C0117BE972C982A7452FBB6C0A78CAE2656D9E4B9DF15FEF1BE1C9C28CD3",
+          "size": "7339260",
+          "boards": [
+            {"name": "ADIY Uno"}
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
